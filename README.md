@@ -1,4 +1,4 @@
-## 💫 About Me:
+### 💫 About Me:
 I'm a full-stack software Engineer with more than 15 years of experience.
 Capable of working independently with minimum supervision, and
 committed to providing high quality service to every project, with focus
@@ -6,7 +6,7 @@ on well-managed, well-documented and clean coding. Professional,
 capable, and motivated individual who consistently seeks new
 challenging areas.
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-mohammad-hosseini)
 
 ### 💻 Tech Stack:
