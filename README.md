@@ -6,6 +6,12 @@ on well-managed, well-documented and clean coding. Professional,
 capable, and motivated individual who consistently seeks new
 challenging areas.
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-mohammad-hosseini)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=amhossaini&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+
 <!--
 **amhossaini/amhossaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
